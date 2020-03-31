@@ -9,4 +9,4 @@ This program calculates the physical characteristics of a vacuum chamber and the
 
 To run just navigate to the script directory and enter:
 
-  $ python3 vacuum-lift-calculator.py
+    $ python3 vacuum-lift-calculator.py
