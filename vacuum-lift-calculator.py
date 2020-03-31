@@ -51,11 +51,11 @@ class TetrahedronVacuumChamber:
     def __init__(self, material_density, thickness, interior_triangle_side_length, price_per_gram):
 
         # Initialization.        
-        self.material_density = material_density       # In units of grams per centimeter cubed.
-        self.thickness = thickness                     # In units of centimeters.
+        self.material_density = material_density                                   # In units of grams per centimeter cubed.
+        self.thickness = thickness                                                 # In units of centimeters.
         self.interior_triangle_side_length = interior_triangle_side_length         # In units of centimeters.
-        self.relative_vacuum_density = -0.00128        # In units of grams per centimeter cubed.
-        self.price_per_gram = price_per_gram           # In units of USD.
+        self.relative_vacuum_density = -0.00128                                    # In units of grams per centimeter cubed.
+        self.price_per_gram = price_per_gram                                       # In units of USD.
 
         # Prints essential information.
         print("Totals")
