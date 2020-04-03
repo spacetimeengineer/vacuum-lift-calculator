@@ -2,7 +2,6 @@ vacuum-lift-calculator
 ======================
 
 ![alt text](https://github.com/spacetimeengineer/vacuum-lift-calculator/blob/master/vacuum-lift-image.png)
-Beta
 
 A python script which calculates the effective negative mass due to buoyancy effects of a vacuum chamber for a given material density, wall thickness, material cost and volume.
 
