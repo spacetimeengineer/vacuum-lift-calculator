@@ -1,5 +1,5 @@
-vacuum-lift-calculator
-======================
+Vacuum Chamber Buoyency Calculator
+==================================
 
 ![alt text](https://github.com/spacetimeengineer/vacuum-lift-calculator/blob/master/vacuum-lift-image.png)
 
